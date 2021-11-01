@@ -3,7 +3,8 @@
 ![Screenshot](https://github.com/ajay-pal-singh/cell_shadow/blob/main/screenShot.png)
 
 Give shadow to any type of cell easily with this file.
-Just download the file and add "ShadowCardCell.swift" file to your project.
+
+Download the project and add "ShadowCardCell.swift" file to your project.
 
 Usage:
 Add this line in cellForItemAt indexPath 
