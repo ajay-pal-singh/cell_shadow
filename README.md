@@ -1,6 +1,6 @@
 # cell_shadow
 
-![Screenshot](https://github.com/ajay-pal-singh/cell_shadow/blob/main/ScreenShot.png)
+![Screenshot](https://github.com/ajay-pal-singh/cell_shadow/blob/main/screenShot.png)
 
 Give shadow to any type of cell easily with this file.
 Just download the file and add it to your project.
